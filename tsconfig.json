@@ -1,0 +1,7 @@
+{
+  "files": ["test.ts"],
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es2019", "dom"],
+  }
+}
